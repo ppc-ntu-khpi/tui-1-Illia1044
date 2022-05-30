@@ -13,4 +13,8 @@
 При введенні неіснуючого індексу, програма видає помилку, що введенно неіснуючий індекс
 
 ![image](https://user-images.githubusercontent.com/92012282/171044845-3cf9f2c3-8016-4a6e-ab3a-852444bd8bde.png)
+Було переінакшено процедуру DO:
+
+![image](https://user-images.githubusercontent.com/92012282/171045056-92a1b5a1-0794-4593-bfbe-e1fd760c71d7.png)
+
 
